@@ -116,7 +116,7 @@ No `main.c` de exemplo, faça a leitura do nome do arquivo de entrada e chame
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por **Pablo Henrique A. de Souza & Gustavo Almeida**  
+Desenvolvido por **Pablo Henrique A. de Souza & Gustavo Almeida de Sousa**  
 Projeto de prática de **Estruturas de Dados em C**.
 
 ---
